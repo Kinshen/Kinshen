@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kinshen
-- 👀 I’m interested in Frontend
-- 🌱 I’m currently learning HTML
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Python
 
 
 
